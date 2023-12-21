@@ -1,5 +1,0 @@
-build:
-  docker:
-      worker: NO-2F.py
-run:
-   worker: yarn start
